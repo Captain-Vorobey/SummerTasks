@@ -1,0 +1,14 @@
+let a: number = 1;
+let b: string = 'a';
+let c: number[] = [];
+let c1: Array<number> = [];
+let d: object = {name: 'q'};
+let bt: boolean = true;
+let t: [string, number] = ['price', 5];
+let prices: Array<[string, number]> = [['price', 5], ['price', 6]];
+let boolArray: Array<boolean> = [false, false];
+let x: any = 5;
+x = [];
+const a1: number = 10;
+const c2: Array<number> = [1, 2, 3];
+c2[0] = 10;
